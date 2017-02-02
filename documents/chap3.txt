@@ -1,0 +1,15 @@
+3.1. Explain why the rapid delivery and deployment of new systems is often more important
+to businesses than the detailed functionality of these systems.
+
+3.2. Explain how the principles underlying agile methods lead to the accelerated development
+and deployment of software.
+
+3.3. When would you recommend against the use of an agile method for developing a software
+system?
+
+3.4. Extreme programming expresses user requirements as stories, with each story written
+on a card. Discuss the advantages and disadvantages of this approach to requirements
+description.
+
+3.5. Explain why test-first development helps the programmer to develop a better understanding
+of the system requirements. What are the potential difficulties with test-first development?
